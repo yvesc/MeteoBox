@@ -10,6 +10,8 @@ The main goals of this little project are:
 4. With cosmetic toys like smart icons, etc.
 5. Forecasts (Must have).
 
+**Note : **This repository (and eventually the website) is currently working in progress, so don't be too bad with the content but constructive. If you have remarks, suggestions, code or anything else, please share it.
+
 ## Doc : 
 * Some informations about METAR Structure : [http://weather.unisys.com/wxp/Appendices/Formats/METAR.php](http://weather.unisys.com/wxp/Appendices/Formats/METAR.php)
 * Another good Wikipedia reference : [https://fr.wikipedia.org/wiki/METAR] (https://fr.wikipedia.org/wiki/METAR)
