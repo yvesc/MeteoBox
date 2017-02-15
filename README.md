@@ -6,7 +6,7 @@ Table of Contents
 * [Overview](#overview)
 * [Requirements](#requirements)
 * [References](#references)
-* [Data sources](#data sources)
+* [Data sources](#data_sources)
 * [ToDo](#todo)
 
 
@@ -34,7 +34,6 @@ References
 * Another good Wikipedia reference : [https://fr.wikipedia.org/wiki/METAR] (https://fr.wikipedia.org/wiki/METAR)
 
 
-Data sources
 ------------
 
 * Official observations repository : [http://tgftp.nws.noaa.gov/data/observations/metar](http://tgftp.nws.noaa.gov/data/observations/metar)
