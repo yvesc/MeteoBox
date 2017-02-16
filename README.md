@@ -35,6 +35,7 @@ METAR and TAF data formats
 * Another good Wikipedia reference : [https://fr.wikipedia.org/wiki/METAR] (https://fr.wikipedia.org/wiki/METAR)
 * Howto decode METAR : [http://www.metoffice.gov.uk/media/pdf/n/d/HeliBrief_Help_-_Aerodrome_Actual_Weather_-_METAR_Decode.pdf](http://www.metoffice.gov.uk/media/pdf/n/d/HeliBrief_Help_-_Aerodrome_Actual_Weather_-_METAR_Decode.pdf)
 * Howto decode TAF : [http://www.metoffice.gov.uk/media/pdf/p/4/HeliBrief_Help_-_Aerodrome_Forecast_-_TAF_Decode.pdf](http://www.metoffice.gov.uk/media/pdf/p/4/HeliBrief_Help_-_Aerodrome_Forecast_-_TAF_Decode.pdf)
+* What a TAF values actually mean : [http://www.metoffice.gov.uk/binaries/content/assets/mohippo/pdf/aviation/ga/what-taf-values-actually-mean.pdf](http://www.metoffice.gov.uk/binaries/content/assets/mohippo/pdf/aviation/ga/what-taf-values-actually-mean.pdf)
 
 Data Sources
 ------------
