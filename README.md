@@ -5,6 +5,7 @@ Table of Contents
 
 * [Overview](#overview)
 * [Requirements](#requirements)
+* [Documentation](#documentation)
 * [About data format](#metar-and-taf-data-formats)
 * [Data sources](#data-sources)
 * [ToDo](#todo)
@@ -28,8 +29,14 @@ Requirements
 ------------
 TBC
 
-METAR and TAF data formats
---------------------------
+Documentation
+-------------
+
+### Divers (in french)
+
+* Data exploitation : [http://meteo-blois.blogspot.be/2015/04/exploiter-les-donnees-meteo-gratuites.html](http://meteo-blois.blogspot.be/2015/04/exploiter-les-donnees-meteo-gratuites.html)
+
+### METAR and TAF data formats
 
 * Some informations about METAR Structure : [http://weather.unisys.com/wxp/Appendices/Formats/METAR.php](http://weather.unisys.com/wxp/Appendices/Formats/METAR.php)
 * Another good Wikipedia reference : [https://fr.wikipedia.org/wiki/METAR] (https://fr.wikipedia.org/wiki/METAR)
@@ -37,8 +44,7 @@ METAR and TAF data formats
 * Howto decode TAF : [http://www.metoffice.gov.uk/media/pdf/p/4/HeliBrief_Help_-_Aerodrome_Forecast_-_TAF_Decode.pdf](http://www.metoffice.gov.uk/media/pdf/p/4/HeliBrief_Help_-_Aerodrome_Forecast_-_TAF_Decode.pdf)
 * What a TAF values actually mean : [http://www.metoffice.gov.uk/binaries/content/assets/mohippo/pdf/aviation/ga/what-taf-values-actually-mean.pdf](http://www.metoffice.gov.uk/binaries/content/assets/mohippo/pdf/aviation/ga/what-taf-values-actually-mean.pdf)
 
-Data Sources
-------------
+### Data Sources
 
 * Official observations repository : [http://tgftp.nws.noaa.gov/data/observations/metar](http://tgftp.nws.noaa.gov/data/observations/metar)
 * Most recent stations list : [https://www.aviationweather.gov/docs/metar/stations.txt](https://www.aviationweather.gov/docs/metar/stations.txt)
