@@ -5,7 +5,7 @@ Table of Contents
 
 * [Overview](#overview)
 * [Requirements](#requirements)
-* [References](#references)
+* [About data format](#data)
 * [Data sources](#sources)
 * [ToDo](#todo)
 
@@ -26,9 +26,10 @@ The main goals of this little project are:
 
 Requirements
 ------------
+TBC
 
-References 
-----------
+Data structure 
+--------------
 
 * Some informations about METAR Structure : [http://weather.unisys.com/wxp/Appendices/Formats/METAR.php](http://weather.unisys.com/wxp/Appendices/Formats/METAR.php)
 * Another good Wikipedia reference : [https://fr.wikipedia.org/wiki/METAR] (https://fr.wikipedia.org/wiki/METAR)
