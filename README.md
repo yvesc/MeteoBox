@@ -6,7 +6,7 @@ Table of Contents
 * [Overview](#overview)
 * [Requirements](#requirements)
 * [About data format](#metar-and-taf-data-formats)
-* [Data sources](#sources)
+* [Data sources](#data-sources)
 * [ToDo](#todo)
 
 
@@ -33,9 +33,11 @@ METAR and TAF data formats
 
 * Some informations about METAR Structure : [http://weather.unisys.com/wxp/Appendices/Formats/METAR.php](http://weather.unisys.com/wxp/Appendices/Formats/METAR.php)
 * Another good Wikipedia reference : [https://fr.wikipedia.org/wiki/METAR] (https://fr.wikipedia.org/wiki/METAR)
+* Howto decode METAR : [http://www.metoffice.gov.uk/media/pdf/n/d/HeliBrief_Help_-_Aerodrome_Actual_Weather_-_METAR_Decode.pdf](http://www.metoffice.gov.uk/media/pdf/n/d/HeliBrief_Help_-_Aerodrome_Actual_Weather_-_METAR_Decode.pdf)
+* Howto decode TAF : [http://www.metoffice.gov.uk/media/pdf/p/4/HeliBrief_Help_-_Aerodrome_Forecast_-_TAF_Decode.pdf](http://www.metoffice.gov.uk/media/pdf/p/4/HeliBrief_Help_-_Aerodrome_Forecast_-_TAF_Decode.pdf)
 
-Sources
--------
+Data Sources
+------------
 
 * Official observations repository : [http://tgftp.nws.noaa.gov/data/observations/metar](http://tgftp.nws.noaa.gov/data/observations/metar)
 * Most recent stations list : [https://www.aviationweather.gov/docs/metar/stations.txt](https://www.aviationweather.gov/docs/metar/stations.txt)
