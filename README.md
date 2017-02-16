@@ -5,7 +5,7 @@ Table of Contents
 
 * [Overview](#overview)
 * [Requirements](#requirements)
-* [About data format](#METAR-and-TAF-data-formats)
+* [About data format](#metar-and-taf-data-formats)
 * [Data sources](#sources)
 * [ToDo](#todo)
 
