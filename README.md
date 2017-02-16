@@ -5,7 +5,7 @@ Table of Contents
 
 * [Overview](#overview)
 * [Requirements](#requirements)
-* [About data format](#data)
+* [About data format](#METAR-and-TAF-data-formats)
 * [Data sources](#sources)
 * [ToDo](#todo)
 
@@ -28,8 +28,8 @@ Requirements
 ------------
 TBC
 
-Data structure 
---------------
+METAR and TAF data formats
+--------------------------
 
 * Some informations about METAR Structure : [http://weather.unisys.com/wxp/Appendices/Formats/METAR.php](http://weather.unisys.com/wxp/Appendices/Formats/METAR.php)
 * Another good Wikipedia reference : [https://fr.wikipedia.org/wiki/METAR] (https://fr.wikipedia.org/wiki/METAR)
