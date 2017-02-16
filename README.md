@@ -6,7 +6,7 @@ Table of Contents
 * [Overview](#overview)
 * [Requirements](#requirements)
 * [References](#references)
-* [Data sources](#data_sources)
+* [Data sources](#sources)
 * [ToDo](#todo)
 
 
@@ -16,7 +16,7 @@ Overview
 **MeteoBox** is a web component for (Seaside)[http://www.seaside.st] framework.
 The main goals of this little project are:
 
-1. for a meteo station (by example, ELBG), displaying "real time" meteo observations in a web page 
+1. Choose a airport meteo station (by example, ELBG) and displaying in realtime the meteo observations in a web page 
 2. Based on regulary and officialy updated METAR notices
 3. Apply a style to the info box
 4. With cosmetic toys like smart icons, etc.
@@ -33,8 +33,8 @@ References
 * Some informations about METAR Structure : [http://weather.unisys.com/wxp/Appendices/Formats/METAR.php](http://weather.unisys.com/wxp/Appendices/Formats/METAR.php)
 * Another good Wikipedia reference : [https://fr.wikipedia.org/wiki/METAR] (https://fr.wikipedia.org/wiki/METAR)
 
-
-------------
+Sources
+-------
 
 * Official observations repository : [http://tgftp.nws.noaa.gov/data/observations/metar](http://tgftp.nws.noaa.gov/data/observations/metar)
 * Most recent stations list : [https://www.aviationweather.gov/docs/metar/stations.txt](https://www.aviationweather.gov/docs/metar/stations.txt)
